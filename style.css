@@ -1,0 +1,33 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.warnaBody {
+  background-color: aqua;
+}
+
+.kotak {
+  width: 50px;
+  height: 50px;
+  margin: 10px auto;
+}
+
+.merah {
+  background-color: red;
+}
+.hijau {
+  background-color: green;
+}
+.biru {
+  background-color: blue;
+}
